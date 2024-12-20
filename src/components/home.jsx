@@ -10,7 +10,7 @@ function home() {
     <div className="text-6xl font-bold absolute top-0 left-0 right-0 bottom-10 flex items-center justify-center text-white bg-opacity-0">
     Awaken your senses 
     <br></br>with the finest beans
-    <br></br>roasted to .
+    <br></br>roasted to perefection.
     </div>
     </div>
   )
